@@ -10,6 +10,7 @@ class SortTest {
 
     public SortTest(int size) {
         // Новая строка тут.
+        // Еще одна строка !!!!
         this.size = size;
 
         // Создание массива.
